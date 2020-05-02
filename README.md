@@ -1,4 +1,4 @@
-# VGG-16_implementation
+# VGG-16
 
 
 Dataset used is Cifar-10
